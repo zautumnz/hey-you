@@ -1,8 +1,7 @@
 # Hey, You
 
-* [Web version](https://zacanger.github.io/hey-you/)
+* [Web version](https://zautumnz.github.io/hey-you/)
 * [npm](http://npm.im/hey-you)
-* [Donate](https://ko-fi.com/zacanger)
 
 ### Installation
 

@@ -3,9 +3,7 @@
   "description": "hey, you",
   "version": "4.1.9",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "./app.js",
@@ -19,12 +17,12 @@
     "start": "./index.js",
     "test": "standard && sortpack"
   },
-  "homepage": "https://zacanger.github.io/hey-you",
+  "homepage": "https://zautumnz.github.io/hey-you",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/hey-you.git"
+    "url": "https://github.com/zautumnz/hey-you.git"
   },
-  "bugs": "https://github.com/zacanger/hey-you/issues",
+  "bugs": "https://github.com/zautumnz/hey-you/issues",
   "keywords": [
     "electron",
     "encouragement",
